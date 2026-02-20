@@ -18,6 +18,7 @@
 
 5. Qual é a sequência de passos a ser feita para chegar nesse resultado?
 (pseudocodigo)
+
 - Reeceber o salário mensal
 - Receber o quantidade de hora trabalhadas
 - Valor hora = salário mensal / quantidade de horas trabalhadas
